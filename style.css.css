@@ -1,4 +1,4 @@
-
+/* style.css */
 body {
     font-family: 'Arial', sans-serif;
     background-color: #e9f0f9;
@@ -59,7 +59,7 @@ main.container {
     padding-bottom: 50px;
 }
 
-
+/* نمط العناصر الرئيسية */
 .dashboard-card, .form-container, .message-container {
     background-color: white;
     padding: 25px;
@@ -68,7 +68,7 @@ main.container {
     margin-bottom: 20px;
 }
 
-
+/* جداول البيانات */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -116,12 +116,12 @@ input[type="submit"]:hover, button:hover, .button:hover {
     background-color: #0056b3;
 }
 
-
+/* أزرار الحالة */
 .status-confirmed { background-color: #28a745; }
 .status-pending { background-color: #ffc107; color: #333; }
 .status-cancelled { background-color: #dc3545; }
 
-
+/* نمط المحادثات */
 .chat-box {
     height: 400px; 
     overflow-y: scroll; 
