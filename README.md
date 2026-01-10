@@ -1,1 +1,1 @@
-ce projet est un systeme de gestion hospitaliere
+Système de gestion de clinique médicale
