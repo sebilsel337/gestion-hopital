@@ -1,1 +1,1 @@
-Système de gestion de clinique médicale
+ystème de gestion de clinique médicale
